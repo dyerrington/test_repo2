@@ -2,7 +2,7 @@
 
 class util:
 
-    version = 1.0Master
+    version = 1.0Justin
 
     
     def __init__(self):
