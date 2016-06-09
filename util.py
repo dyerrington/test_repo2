@@ -1,7 +1,6 @@
 class util:
 
-    version = 1.0Davedhasthebestutilfile
-
+    version = 1.0Justin
     
     def __init__(self):
         print "initialized"
