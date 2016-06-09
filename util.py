@@ -1,8 +1,6 @@
-
-
 class util:
 
-    version = 1.0Master
+    version = 1.0Davedhasthebestutilfile
 
     
     def __init__(self):
